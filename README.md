@@ -41,10 +41,10 @@ all reads are performed via standard JSON-RPC calls.
   solidity contracts deployed to Base Sepolia for validation:
   - OrbitPing.sol - a tiny “liveness” contract for repeatable testnet checks: emits a Ping event, stores the latest ping payload, and tracks ping coun
   - OrbitReceiptVault.sol - a minimal ETH “receipt vault” for deterministic test flows: accepts deposits tagged with a short string, records per-user totals, and allows the owner to withdraw
- 
+    
 - env/  
   - sepolia.env.json - network and explorer configuration
-
+  - 
 - package.json  
   dependency manifest
 
