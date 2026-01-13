@@ -1,0 +1,27 @@
+{
+  "name": "orbit",
+  "version": "1.1.1",
+  "private": true,
+  "type": "module",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "@coinbase/onchainkit": "latest",
+    "viem": "latest",
+    "ethers": "latest",
+    "web3": "latest",
+    "axios": "latest",
+
+    "coinbase-agentkit": "github:coinbase/agentkit",
+    "coinbase-x402": "github:coinbase/x402",
+    "coinbase-cdp-sdk": "github:coinbase/cdp-sdk",
+    "coinbase-wallet-sdk": "github:coinbase/wallet-sdk",
+    "coinbase-cb-mpc": "github:coinbase/cb-mpc",
+
+    "base-node": "github:base/node",
+    "base-web": "github:base/web",
+    "base-docs": "github:base/docs",
+    "base-smart-wallet": "github:base/smart-wallet",
+    "base-brand-kit": "github:base/brand-kit"
+  }
+}
