@@ -44,7 +44,7 @@ all reads are performed via standard JSON-RPC calls.
     
 - env/  
   - sepolia.env.json - network and explorer configuration
-  - 
+    
 - package.json  
   dependency manifest
 
